@@ -1,3 +1,7 @@
+# Chipyard for CPRE 6810
+
+This branch is forked from previous CPRE 581 Project. Those details are listed below
+
 # Chipyard for Project-SADD-MaMA!
 
 This is the branch used in Project SADD MaMA. See our project report [here](https://github.com/jona1115/chipyard/blob/Project-SADD-MaMA/CPRE581_Project_Final_Report.pdf).
