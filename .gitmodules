@@ -24,7 +24,7 @@
 	url = https://github.com/ucb-bar/FFTGenerator.git
 [submodule "generators/gemmini"]
 	path = generators/gemmini
-	url = https://github.com/jona1115/gemmini.git
+	url = " git@github.com:sfranaISU/gemmini.git"
 [submodule "generators/hardfloat"]
 	path = generators/hardfloat
 	url = https://github.com/ucb-bar/berkeley-hardfloat.git
@@ -154,3 +154,5 @@
 [submodule "generators/vexiiriscv"]
 	path = generators/vexiiriscv
 	url = https://github.com/ucb-bar/vexiiriscv-tile.git
+[submodule "generators/gemmini-rocc-tests"]
+	url = " git@github.com:sfranaISU/gemmini-rocc-tests.git"
